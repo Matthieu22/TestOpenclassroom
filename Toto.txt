@@ -1,1 +1,3 @@
 Fichier de Toto
+
+Infos que Toto a jugé utiles de mettre dans ce fichier.
